@@ -28,3 +28,7 @@ Plot 1
 Plot 2
 
 ![plot2](https://user-images.githubusercontent.com/53852959/65598234-99462b80-dfb8-11e9-9204-344eefa1ed37.png)
+
+Plot 3
+
+![plot3](https://user-images.githubusercontent.com/53852959/65599026-6ef56d80-dfba-11e9-80bf-9adfc627a1f6.png)
