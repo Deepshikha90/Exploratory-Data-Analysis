@@ -32,3 +32,7 @@ Plot 2
 Plot 3
 
 ![plot3](https://user-images.githubusercontent.com/53852959/65599026-6ef56d80-dfba-11e9-80bf-9adfc627a1f6.png)
+
+Plot 4
+
+![plot4](https://user-images.githubusercontent.com/53852959/65599367-4fab1000-dfbb-11e9-8690-7903b2f6a5ba.png)
