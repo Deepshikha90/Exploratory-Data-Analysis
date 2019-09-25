@@ -21,5 +21,4 @@ When you are finished with the assignment, push your git repository to GitHub so
 
 The four plots that you will need to construct are shown below.
 
-![plot1](https://user-images.githubusercontent.com/53852959/65597428-bda10880-dfb6-11e9-805e-deb02341989e.png)
 
